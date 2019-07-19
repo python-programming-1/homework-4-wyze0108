@@ -1,4 +1,4 @@
-# homework-4#
+# Homework 4
 
 # Let's Make A Game! 
 ## Can you make rock paper scissors?
