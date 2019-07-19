@@ -19,13 +19,13 @@ So if the player has played scissor three times, the computer may try to play ro
 
 Sample output:
 
->>Make a move! (r/s/p)
-r
->> You chose rock and the computer chose scissors. You win!
-sc
->> human: 1, computer: 0
->> Do you want to play again? (y/n)
-n
->>Thanks bye!
+    >>Make a move! (r/s/p)
+    r
+    >> You chose rock and the computer chose scissors. You win!
+    sc
+    >> human: 1, computer: 0
+    >> Do you want to play again? (y/n)
+    n
+    >>Thanks bye!
 
 9. Follow the instructions as precisely as possible, but feel free to ask me for clarification. You'll want to use loops like a while loop to repeat certain instructions, like asking a user to play again, and if/else statements to help your program handle the different possible outcomes that your game of rock paper scissors may generate. You may use a list or some other data structure to store the history of player moves for #8.
